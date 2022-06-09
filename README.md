@@ -11,4 +11,4 @@ Welcome to my profile!
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/imbillal/)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=imbillal.imbillal)
 
-![Billal Hossain's github stats](https://github-readme-stats.vercel.app/api?username=imbillal&show_icons=true&locale=en")
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=imbillal&show_icons=true&locale=en" alt="imbillal" /></p>
