@@ -1,7 +1,9 @@
 # Hi I'm Billal Hossain 👋
 
 Welcome to my profile!
+
 <!--Website -->
+
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/imbillal/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/imbillal/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://billal.dev/)
@@ -9,5 +11,4 @@ Welcome to my profile!
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/imbillal/)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=imbillal.imbillal)
 
-![Hashemi Rafsan's github stats](https://github-readme-stats.vercel.app/api?username=imbillal&show_icons=true&locale=en" alt="imbillal")
-
+![Billal Hossain's github stats](https://github-readme-stats.vercel.app/api?username=imbillal&show_icons=true&locale=en")
